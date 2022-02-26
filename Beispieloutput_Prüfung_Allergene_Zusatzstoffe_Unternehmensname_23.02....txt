@@ -1,0 +1,798 @@
+Lieferantenname: Unternehmensname
+
+Allergenprüfung:
+
+Folgende Mängel wurden in Ihrem Katalog vom 21.02.2022 festgestellt.
+---------------------------------------------
+Artikelnummer: 123
+Artikelname: KNOCHENKASSLER SCHWEIN0,200
+
+Angabe, ob Allergen enthalten: 0
+(0 = kein Allergen, 1 = Allergene enthalten)
+
+Krebstiere und daraus gewonnen Erzeugnisse (AC) : 0
+Eier und daraus gewonnene Erzeugnisse (AE) : 0
+Fisch oder daraus gewonnene Erzeugnisse (AF) : 0
+Milch und Milcherzeugnisse (AM) : 0
+Nüsse und daraus gewonnene Erzeugnisse (AN) : 0
+Erdnüsse und daraus Erzeugnisse (AP) : 0
+Sesamsamen und daraus gewonnene Erzeugnisse (AS) : 0
+Schwefeldioxid und Sulphite (AU) : 0
+Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse (AW) : 0
+Sojabohnen und daraus gewonnene Erzeugnisse (AY) : 0
+Sellerie und daraus gewonnene Erzeugnisse (BC) : 2
+Senf und daraus gewonnene Erzeugnisse (BM) : 0
+Lupine und daraus gewonnene Erzeugnisse (NL) : 0
+Weichtiere und daraus gewonnene Erzeugnisse (UM) : 0
+ 0 = nicht enthalten, 1 = in Spuren, 2 = enthalten
+
+Sie haben angegeben, dass der Artikel keine Allergene enthält. Jedoch haben Sie Allergene angegeben. Bitte prüfen Sie diesen Artikel, vielen Dank!
+---------------------------------------------
+Artikelnummer: 127
+Artikelname: SCHWEINEHAXE GEPÖCKELT GEGART0,450
+
+Angabe, ob Allergen enthalten: 0
+(0 = kein Allergen, 1 = Allergene enthalten)
+
+Krebstiere und daraus gewonnen Erzeugnisse (AC) : 0
+Eier und daraus gewonnene Erzeugnisse (AE) : 0
+Fisch oder daraus gewonnene Erzeugnisse (AF) : 0
+Milch und Milcherzeugnisse (AM) : 0
+Nüsse und daraus gewonnene Erzeugnisse (AN) : 0
+Erdnüsse und daraus Erzeugnisse (AP) : 0
+Sesamsamen und daraus gewonnene Erzeugnisse (AS) : 0
+Schwefeldioxid und Sulphite (AU) : 0
+Glutenhaltiges Getreide sowie daraus hergestellte Erzeugnisse (AW) : 0
+Sojabohnen und daraus gewonnene Erzeugnisse (AY) : 0
+Sellerie und daraus gewonnene Erzeugnisse (BC) : 2
+Senf und daraus gewonnene Erzeugnisse (BM) : 0
+Lupine und daraus gewonnene Erzeugnisse (NL) : 0
+Weichtiere und daraus gewonnene Erzeugnisse (UM) : 0
+ 0 = nicht enthalten, 1 = in Spuren, 2 = enthalten
+
+Sie haben angegeben, dass der Artikel keine Allergene enthält. Jedoch haben Sie Allergene angegeben. Bitte prüfen Sie diesen Artikel, vielen Dank!
+
+Zusatzstoffprüfung:
+
+Folgende Mängel wurden beim Ihrem Katalog vom 21.02.2022 festgestellt.
+
+---------------------------------------------
+Artikelnummer: 8
+Artikelname: RINDFLEISCH Geökelt, Gewolft
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 35
+Artikelname: RINDER STEAKHÜFTE MARI0,150
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "6"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 104
+Artikelname: KA.NACKEN SCHIER GEGART SCHWEIN2,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 105
+Artikelname: KASSELER NACKEN SCHIER SCHWEIN3,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 123
+Artikelname: KNOCHENKASSLER SCHWEIN0,200
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 126
+Artikelname: SCHWEINEBACKE GER:1,100
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 127
+Artikelname: SCHWEINEHAXE GEPÖCKELT GEGART0,450
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 139
+Artikelname: KASSELER NACKEN SCHWEIN3,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 150
+Artikelname: Schweine geschnetzeltes Mariniert/Grün
+
+Zusatzstoffe enthalten?: "1"
+ 0 = nicht enthalten, 1 = enthalten
+
+Folgende Zusatzstoffe wurden angegeben: ""
+
+Sie haben angegeben, dass der Artikel Zusatzstoffe enthält. Allerdings haben Sie keine Zusatzstoffe angegeben! Bitte passen Sie den Artikel an.
+---------------------------------------------
+Artikelnummer: 157
+Artikelname: NACKENSTEAK MARINIERT / GRÜN SCHWEIN0,160
+
+Zusatzstoffe enthalten?: "1"
+ 0 = nicht enthalten, 1 = enthalten
+
+Folgende Zusatzstoffe wurden angegeben: ""
+
+Sie haben angegeben, dass der Artikel Zusatzstoffe enthält. Allerdings haben Sie keine Zusatzstoffe angegeben! Bitte passen Sie den Artikel an.
+---------------------------------------------
+Artikelnummer: 158
+Artikelname: KASSELER LACHSE SCHWEIN3,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 159
+Artikelname: PFEFFERSCHINKEN SCHWEIN2,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 262
+Artikelname: GEFLÜGELSALAMI PUTE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,3"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 263
+Artikelname: LAMMBRATWURST0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 358
+Artikelname: KALBFLEISCHWURST m.PUTENFL.0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 359
+Artikelname: GYROS BIERSCHINKEN m.PUTE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 363
+Artikelname: JAGDWURST m. PUTENFLEISCH0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 367
+Artikelname: BRÜHWURST SCHWEIN3,200
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 368
+Artikelname: FLEISCHWURST I.RING SCHWEIN0,700
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 369
+Artikelname: WIENER WÜRSTCHEN0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 371
+Artikelname: SCHINKENWURST0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 375
+Artikelname: ROSTBRATWURST GROB0,125
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 376
+Artikelname: ROSTBRATWURST KLEIN0,025
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 379
+Artikelname: DEBRECZINER0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 381
+Artikelname: KRAKAUER0,140
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 382
+Artikelname: BOCKWURST0,130
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 384
+Artikelname: RAUCHENDEN0,800
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 388
+Artikelname: GEK.HINTERSCHINKEN0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 389
+Artikelname: BRATENKASSELER0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 392
+Artikelname: KARBONADEN-SCHINKEN0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 394
+Artikelname: PRAGER GEGART I NETZ5,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 396
+Artikelname: GERÄUCHERTER SCHINKEN GEW1,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 397
+Artikelname: SCHINKENSPECK-KAPPE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 398
+Artikelname: SCHINKEN PAPE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 399
+Artikelname: SPECK MAGER2,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 402
+Artikelname: DW:SPECK GEWÜRFELT1,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 405
+Artikelname: LANDLEBERWURST0,600
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 426
+Artikelname: WIENER WÜRSTCHEN (klein)0,050
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 427
+Artikelname: ROSTBRATWURST0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 440
+Artikelname: KÜMMELSÜLZE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 443
+Artikelname: RIESENBOCKWURST0,180
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 445
+Artikelname: FLEISCHKÄSE1,600
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 448
+Artikelname: BIERSCHINKEN0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 451
+Artikelname: LEBERKÄSE GROB1,600
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 455
+Artikelname: RINDFLEISCHWÜRSTCHEN0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 457
+Artikelname: PAPRIKAPASTETE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,22,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 461
+Artikelname: PILZPASTETE0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 486
+Artikelname: MORTADELLA0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 501
+Artikelname: KRÄUTERNACKEN GEGART SCHWEIN2,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 512
+Artikelname: GEFLÜGELPAPRIKAWURST0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 522
+Artikelname: SCHINKEN KAPPE GESCHN0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 525
+Artikelname: PUTEN-WIENER 0,0900,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 535
+Artikelname: ALTLÄNDER METTWURST0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 536
+Artikelname: FORMFLEISCH0,500
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 599
+Artikelname: GOUDA KÄSE1,000
+
+Zusatzstoffe enthalten?: "1"
+ 0 = nicht enthalten, 1 = enthalten
+
+Folgende Zusatzstoffe wurden angegeben: ""
+
+Sie haben angegeben, dass der Artikel Zusatzstoffe enthält. Allerdings haben Sie keine Zusatzstoffe angegeben! Bitte passen Sie den Artikel an.
+---------------------------------------------
+Artikelnummer: 604
+Artikelname: SAUERBRATEN EINGELEGT RIND2,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 614
+Artikelname: HACKBRATEN MEDITERAN1,400
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 615
+Artikelname: HACKBRATEN PAPRIKA1,400
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 616
+Artikelname: HACKBRATEN CHAMPION1,400
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 617
+Artikelname: HACKBRATEN BÖHMISCH1,400
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 618
+Artikelname: HACKBRATEN ITALIENISCH1,400
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 652
+Artikelname: KABANOSSI
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 687
+Artikelname: HOT DOG JALAPENO0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 689
+Artikelname: HOT DOG RINDFLEISCH0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 690
+Artikelname: HOT DOG PUTENFLEISCH0,090
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1103
+Artikelname: KOCHSCHINKEN I STREIFEN
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1900
+Artikelname: FRIKADELLE FRISCH SCHWEIN/RIND0,150
+
+Zusatzstoffe enthalten?: "1"
+ 0 = nicht enthalten, 1 = enthalten
+
+Folgende Zusatzstoffe wurden angegeben: ""
+
+Sie haben angegeben, dass der Artikel Zusatzstoffe enthält. Allerdings haben Sie keine Zusatzstoffe angegeben! Bitte passen Sie den Artikel an.
+---------------------------------------------
+Artikelnummer: 1902
+Artikelname: SCHWEINEROULADE0,220
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1904
+Artikelname: FLEISCHSPIESS GEW: SCHWEIN0,180
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1906
+Artikelname: RINDERROULADE GEG.0,220
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1928
+Artikelname: BURGUNDER SCHINKEN5,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1929
+Artikelname: FLEISCHKLÖSSCHEN SCHWEIN/RIND0,040
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "4"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1936
+Artikelname: BAY.LEBERKÄSE1,000
+
+Zusatzstoffe enthalten?: "0"
+(0 = keine Zusatzstoffe, 1 = Zusatzstoffe enthalten)
+
+Folgende Zusatzstoffe wurden angegeben: "1,2,4,7"
+
+Sie haben Zusatzstoffe angegeben, obwohl Sie mitgeteilt haben, dass der Artikel keine Zusatzstoffe enthält. Bitte entfernen Sie die Zusatzstoffe oder übergeben uns eine 1.
+---------------------------------------------
+Artikelnummer: 1937
+Artikelname: GYROS GESCHNETZELT SCHWEIN
+
+Zusatzstoffe enthalten?: "1"
+ 0 = nicht enthalten, 1 = enthalten
+
+Folgende Zusatzstoffe wurden angegeben: ""
+
+Sie haben angegeben, dass der Artikel Zusatzstoffe enthält. Allerdings haben Sie keine Zusatzstoffe angegeben! Bitte passen Sie den Artikel an.
